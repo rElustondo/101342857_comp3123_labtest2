@@ -12,7 +12,32 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.forecast{
+  display:flex;
+  flex-direction: row;
+  border-radius: 10px;
+  background-color: aliceblue;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 20px;
+}
+.forecast-day{
+  display:flex;
+  flex-direction: column;
+}
 
+.weather{
+  border-radius: 10px;
+    margin: 10px;
+  flex: 1;
+  background-color: lightgrey;
+}
+.details{
+  border-radius: 10px;
+    margin: 10px;
+  flex:1;
+  background-color: lightgreen;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
