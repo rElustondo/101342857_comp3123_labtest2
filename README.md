@@ -1,3 +1,11 @@
+# Lab Test 2 
+
+# Welcome to my lab test 2,
+
+# here is the opening screen with default city set to Toronto
+![Screenshot](https://github.com/rElustondo/101342857_comp3123_labtest2/blob/main/src/labtest2screenshot.png?raw=true)
+# Simply enter the name of your needed city and the information will appear once you press submit.
+![Screenshot](https://github.com/rElustondo/101342857_comp3123_labtest2/blob/main/src/labtest2searchScreenshot.png?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
